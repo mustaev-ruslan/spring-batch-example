@@ -1,0 +1,22 @@
+databaseChangeLog:
+- preConditions:
+  - runningAs:
+      username: SA
+
+- changeSet:
+    id: 1
+    author: aaxee
+    changes:
+    - createTable:
+        tableName: books
+        columns:
+        - column:
+            name: id
+            type: long
+            autoIncrement: true
+            constraints:
+              primaryKey: true
+              nullable: false
+        - column:
+            name: name
+            type: varchar(50)
