@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.batch:spring-batch-infrastructure:4.1.2.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.batch/spring-batch-infrastructure/4.1.2.RELEASE/2312c5e59470c9c57f94b6f1ac17d0672dac99d/spring-batch-infrastructure-4.1.2.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.batch/spring-batch-infrastructure/4.1.2.RELEASE/56928a7d15891d73835a07a677a09b38238d961a/spring-batch-infrastructure-4.1.2.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
